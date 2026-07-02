@@ -6,6 +6,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
@@ -26,4 +27,8 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0647-palindromic-substrings) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
