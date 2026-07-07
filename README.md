@@ -12,6 +12,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0986-interval-list-intersections](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2460-apply-operations-to-an-array](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [3926-count-valid-word-occurrences](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/3926-count-valid-word-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -34,6 +35,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0680-valid-palindrome-ii](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3136-valid-word](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/3136-valid-word) |
+| [3926-count-valid-word-occurrences](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/3926-count-valid-word-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +45,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0001-two-sum) |
+| [3926-count-valid-word-occurrences](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/3926-count-valid-word-occurrences) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,4 +62,8 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0986-interval-list-intersections) |
+## Counting
+|  |
+| ------- |
+| [3926-count-valid-word-occurrences](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/3926-count-valid-word-occurrences) |
 <!---LeetCode Topics End-->
