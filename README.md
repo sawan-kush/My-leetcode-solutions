@@ -7,6 +7,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0986-interval-list-intersections](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0986-interval-list-intersections) |
@@ -31,6 +32,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0647-palindromic-substrings](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -45,6 +47,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [3926-count-valid-word-occurrences](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/3926-count-valid-word-occurrences) |
 ## Binary Search
 |  |
@@ -66,4 +69,8 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 |  |
 | ------- |
 | [3926-count-valid-word-occurrences](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/3926-count-valid-word-occurrences) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
