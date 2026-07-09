@@ -9,10 +9,14 @@ class Solution:
             count = [0] * 26
 
             for ch in word:
-                count[ord(ch) - ord("a")] += 1
+                value = ord(ch) - ord('a')
+                count[value] += 1
 
             groups[tuple(count)].append(word)
 
         return list(groups.values())    
-        
+
+
+
+
         
