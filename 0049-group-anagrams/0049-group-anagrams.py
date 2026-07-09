@@ -9,8 +9,7 @@ class Solution:
             count = [0] * 26
 
             for ch in word:
-                value = ord(ch) - ord('a')
-                count[value] += 1
+                count[ord(ch) - ord('a')] += 1
 
             groups[tuple(count)].append(word)
 
