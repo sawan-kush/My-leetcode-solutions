@@ -11,6 +11,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0128-longest-consecutive-sequence](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0561-array-partition) |
 | [0986-interval-list-intersections](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0986-interval-list-intersections) |
@@ -26,6 +27,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0986-interval-list-intersections](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0986-interval-list-intersections) |
@@ -58,6 +60,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -106,4 +109,8 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0561-array-partition) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
