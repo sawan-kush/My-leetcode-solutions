@@ -7,6 +7,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -28,6 +29,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0647-palindromic-substrings) |
@@ -49,6 +51,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0647-palindromic-substrings](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
@@ -120,4 +123,12 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
