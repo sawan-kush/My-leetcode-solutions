@@ -10,6 +10,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0049-group-anagrams](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -21,6 +22,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
@@ -60,6 +62,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
@@ -113,4 +116,8 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
