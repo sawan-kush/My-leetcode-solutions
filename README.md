@@ -17,6 +17,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0287-find-the-duplicate-number](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0561-array-partition) |
+| [0930-binary-subarrays-with-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0986-interval-list-intersections](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2460-apply-operations-to-an-array](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -26,6 +27,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0930-binary-subarrays-with-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +64,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0049-group-anagrams](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0930-binary-subarrays-with-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [3926-count-valid-word-occurrences](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/3926-count-valid-word-occurrences) |
 ## Binary Search
 |  |
@@ -126,6 +129,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Stack
 |  |
 | ------- |
