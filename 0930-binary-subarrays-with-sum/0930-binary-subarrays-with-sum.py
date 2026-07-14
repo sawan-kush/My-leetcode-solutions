@@ -1,0 +1,26 @@
+class Solution:
+    def numSubarraysWithSum(self, nums: List[int], goal: int) -> int:
+
+        def atMost(goal):
+            if goal < 0:
+                return 0
+
+            left = 0
+            curr_sum = 0
+            ans = 0
+
+            for right in range(len(nums)):
+                curr_sum += nums[right]
+
+                while curr_sum > goal:
+                    curr_sum -= nums[left] 
+                    left += 1
+
+                ans += right - left + 1
+
+            return ans
+
+        return atMost(goal) - atMost(goal - 1)               
+
+
+        
