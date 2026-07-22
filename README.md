@@ -56,6 +56,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0003-longest-substring-without-repeating-characters](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0394-decode-string](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -155,8 +156,13 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
