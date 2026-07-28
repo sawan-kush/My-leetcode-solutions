@@ -24,6 +24,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0713-subarray-product-less-than-k](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -38,6 +39,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0560-subarray-sum-equals-k](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
@@ -82,6 +84,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0560-subarray-sum-equals-k](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3926-count-valid-word-occurrences](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/3926-count-valid-word-occurrences) |
 ## Binary Search
 |  |
