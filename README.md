@@ -23,6 +23,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0560-subarray-sum-equals-k](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -104,6 +105,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0682-baseball-game) |
 | [2460-apply-operations-to-an-array](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
@@ -171,6 +173,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0020-valid-parentheses](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
