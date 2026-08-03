@@ -55,6 +55,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0287-find-the-duplicate-number](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0986-interval-list-intersections](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2460-apply-operations-to-an-array](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -69,6 +70,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0394-decode-string](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3136-valid-word](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/3136-valid-word) |
 | [3926-count-valid-word-occurrences](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/3926-count-valid-word-occurrences) |
@@ -106,6 +108,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2460-apply-operations-to-an-array](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
@@ -174,6 +177,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0042-trapping-rain-water](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
