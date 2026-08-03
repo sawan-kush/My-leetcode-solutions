@@ -62,6 +62,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0394-decode-string) |
@@ -167,6 +168,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0394-decode-string) |
 ## Monotonic Stack
