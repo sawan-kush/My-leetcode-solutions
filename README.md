@@ -71,6 +71,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0647-palindromic-substrings](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3136-valid-word](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/3136-valid-word) |
 | [3926-count-valid-word-occurrences](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/3926-count-valid-word-occurrences) |
@@ -178,6 +179,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0394-decode-string](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
