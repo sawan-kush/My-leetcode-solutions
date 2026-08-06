@@ -31,6 +31,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0974-subarray-sums-divisible-by-k](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2460-apply-operations-to-an-array](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3926-count-valid-word-occurrences](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/3926-count-valid-word-occurrences) |
@@ -182,12 +183,14 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0496-next-greater-element-i](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
 | ------- |
