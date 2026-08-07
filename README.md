@@ -69,6 +69,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0020-valid-parentheses](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -179,6 +180,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | ------- |
 | [0020-valid-parentheses](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0682-baseball-game) |
