@@ -26,6 +26,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0643-maximum-average-subarray-i](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -113,6 +114,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2460-apply-operations-to-an-array](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
@@ -184,6 +186,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0394-decode-string](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/1544-make-the-string-great) |
