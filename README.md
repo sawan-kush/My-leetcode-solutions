@@ -55,6 +55,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0018-4sum](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0647-palindromic-substrings) |
@@ -97,6 +98,7 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 | [0003-longest-substring-without-repeating-characters](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -220,5 +222,10 @@ This repository shows my DSA journey with LeetCode, from optimizing my old solut
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sawan-kush/My-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
